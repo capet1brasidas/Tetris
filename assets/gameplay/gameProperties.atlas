@@ -1,0 +1,34 @@
+
+gameProperties.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+greenBrick
+  rotate: false
+  xy: 2, 53
+  size: 55, 52
+  orig: 55, 52
+  offset: 0, 0
+  index: -1
+purpleBrick
+  rotate: false
+  xy: 2, 2
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+redBrick
+  rotate: false
+  xy: 516, 821
+  size: 49, 54
+  orig: 49, 54
+  offset: 0, 0
+  index: -1
+tetrisBackground
+  rotate: false
+  xy: 2, 107
+  size: 512, 768
+  orig: 512, 768
+  offset: 0, 0
+  index: -1
